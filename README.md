@@ -1,3 +1,7 @@
+![lorem picsum ](https://user-images.githubusercontent.com/48234601/123291639-f4ed7200-d51a-11eb-8604-af7075fe659f.png)
+
+
+
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
